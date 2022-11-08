@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Statistics, Data Analysis and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sreemannarayana15?tab=repositories](https://github.com/Sreemannarayana15?tab=repositories)
+- 👨‍💻 All of my projects are available at [Sreemannarayana15](https://github.com/Sreemannarayana15?tab=repositories) **and** [Sreemannarayana1505](https://github.com/Sreemannarayana1505?tab=repositories) 
 
 - 💬 Ask me about **Python, SQL, Data Science**
 
